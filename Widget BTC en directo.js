@@ -1,4 +1,4 @@
-const apibtc = `https://criptoya.com/api/bitex/btc/usd`;
+const apibtc = `https://api.bitfinex.com/v1/pubticker/btcusd`;
 const req = new Request(apibtc);
 const res = await req.loadJSON();
 
