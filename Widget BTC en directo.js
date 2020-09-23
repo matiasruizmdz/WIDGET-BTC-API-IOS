@@ -17,7 +17,7 @@ if (config.runsInWidget) {
 
     widget.addSpacer(5);
 
-    const btcname = widget.addText(`VENTA:${res.ask} COMPRA:${res.bid}`);
+    const btcname = widget.addText(`VENTA:${res.ask} COMPRA:${res.bid}HIGH:${res.high}  LOW:${res.low}`);
     btcname.textColor = Color.yellow();
     btcname.textOpacity = 1;
     btcname.font = new Font("Courier", 12);
