@@ -1,7 +1,7 @@
 # WIDGET-BTC-API-IOS
 WIDGET CON LA COTIZACIÓN EN DIRECTO DEL ACTIVO BTC PARA IOS
 <p align='left'>
-    <img src='./WIDGET ULTIMA ACT.jpeg' </img>
+    <img src='./WIDGET ULTIMA ACT..jpeg' </img>
 </p>
 <br/>
 <p >
